@@ -1,2 +1,2 @@
 # Updated-Aux
-CLone of Aux repo
+Clone of Aux repo
